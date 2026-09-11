@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-BASE_DIR = Path(r"E:\SupportLens AI")
+BASE_DIR = Path(__file__).resolve().parent.parent
 RAW_FILE = BASE_DIR / "data" / "raw" / "twcs.csv"
 GOLDEN_FILE = BASE_DIR / "data" / "golden_set.csv"
 OUTPUT_FILE = BASE_DIR / "data" / "ml_training_data.csv"
