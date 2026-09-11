@@ -482,7 +482,57 @@ The disagreements highlighted an important issue: context-poor and multi-turn Tw
 
 The complete local evaluation harness runs all major evaluations without requiring an LLM API call.
 
+## Prerequisites
+
+The project uses Python 3.11+.
+
+The raw TWCS dataset is not committed to this repository because of its size. Obtain the dataset separately and place the CSV at:
+
+```text
+data/raw/twcs.csv
+```
+
+The generated ML datasets are also excluded from Git because of their size. They can be regenerated from the raw dataset.
+
+## Setup
+
 From the project root:
+
+```powershell
+py -3.11 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+```
+
+## Prepare the training data
+
+Generate the customer → AppleSupport training pairs:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\prepare_ml_data_corrected.py
+```
+
+This creates:
+
+```text
+data/ml_training_data.csv
+```
+
+Then generate the weak labels:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\create_weak_labels.py
+```
+
+This creates:
+
+```text
+data/weak_labeled_all.csv
+data/weak_labeled_data.csv
+```
+
+`weak_labeled_data.csv` contains the high-confidence examples used to train the intent classifier.
+
+## Run the evaluation harness
 
 ```powershell
 .\.venv\Scripts\python.exe scripts\run_evaluation.py
@@ -490,7 +540,7 @@ From the project root:
 
 The full harness currently completes in approximately:
 
-**2.5 minutes on the development machine**
+**4 minutes on the development machine**
 
 This is comfortably below the assignment requirement of 15 minutes.
 
@@ -504,6 +554,7 @@ The evaluation harness runs:
 
 The LLM judge is intentionally not part of the default evaluation harness because it requires an external API and may be subject to free-tier quota limits.
 
+The Golden Set (`data/golden_set.csv`) and evaluation artifacts are committed to the repository so that the reported evaluation evidence can be inspected directly.
 ---
 
 # 16. Running the Agent
