@@ -1,0 +1,206 @@
+example_id,tweet_id,customer_message,suggested_intent,final_intent,predicted_intent,correct
+1,1034179,"@AppleSupport Swing and a miss. While that feature is great in newer versions of iOS, I keep an iPod Touch 3 for old games.",SETTINGS_FEATURE,IOS_UPDATE,APP_PROBLEM,False
+2,1786016,@AppleSupport You can open your messages/anything now through your lock screen??? Wym you guys made the update,SCREEN_DISPLAY,IOS_UPDATE,APP_PROBLEM,False
+3,851694,@AppleSupport Yes it’s connected to Fitbit Charge 2,BATTERY_POWER,CONNECTIVITY,CONNECTIVITY,True
+4,1175507,"@AppleSupport It just doesn’t download. I tap on GET, it has me enter my password and then it just doesn’t download. Then it keeps saying it cannot",ACCOUNT_APPLE_ID,APP_STORE_PURCHASE,ACCOUNT_APPLE_ID,False
+5,1201338,"@AppleSupport My phone keeps shutting off. Every time I have an app open it will lag, I won’t be able to close it so I have to turn my phone off.",PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,APP_PROBLEM,False
+6,1774913,@AppleSupport Wtf nvm,REVIEW_MANUALLY,OTHER,APP_PROBLEM,False
+7,2295591,"@AppleSupport I think it was synced to my iPad but I’ve turned that off. iCloud Photo Library was on but is off now, photo stream off!! It’s all so odd I don’t really understand it!",ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+8,399341,@AppleSupport Was doing it through wifi and laptop https://t.co/CTt4rIiHJL,CONNECTIVITY,CONNECTIVITY,CONNECTIVITY,True
+9,881178,"@AppleSupport iCloud backup's been enabled since I got the📱 I'm on 11.0.3. I've tried  🔄 network settings, cycling power, no change. Still climbing.",BATTERY_POWER,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+10,620107,@AppleSupport It happens when I open an app like Twitter then pressing the home button and swiping to the screen on the right on my home. This causes my screen to go into landscape mode when I have portrait mode locked.,HARDWARE_DEVICE,SCREEN_DISPLAY,SCREEN_DISPLAY,True
+11,1362583,@AppleSupport Thanks. Restart solve the problem.,PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,APP_PROBLEM,False
+12,1573751,@AppleSupport Your solutions have not worked and you’re asking me to do the same thing over and over.. We need an official update specifically to fix this,IOS_UPDATE,IOS_UPDATE,IOS_UPDATE,True
+13,168760,@AppleSupport How do you close a app when it crashes? When you had the home button you could double tap and force quit!,HARDWARE_DEVICE,APP_PROBLEM,APP_PROBLEM,True
+14,1151225,@AppleSupport Yes I tried wi fi too and got a message that my Apple ID was disabled for security reasons. ☹️ I don't know why tho. No unusual use of iPad.,CONNECTIVITY,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+15,1754120,"@AppleSupport also I noticed the message button (right side locked screen) is missing again, it comes &amp; goes, which is weird",SCREEN_DISPLAY,SCREEN_DISPLAY,HARDWARE_DEVICE,False
+16,689634,@AppleSupport iPhone 7 Plus. The camera app pulls up a black screen and the flashlight app does not work. Also causes extreme lag when I try to open it.,SCREEN_DISPLAY,HARDWARE_DEVICE,SCREEN_DISPLAY,False
+17,829156,"@AppleSupport Having VoiceOver issues. Apps are sometimes slow, or crash. Really frustrated that I can't roll back to 10.3.3 Much more stable.",PERFORMANCE_STABILITY,IOS_UPDATE,APP_PROBLEM,False
+18,2077422,@AppleSupport All apps are updated and biggest problem comes in dial pad for dialing phone!!most of the times touch pad don’t work when we have to call,IOS_UPDATE,SCREEN_DISPLAY,APP_PROBLEM,False
+19,2013795,@AppleSupport I’ve updated to the latest version and it’s still done the same. Only on that one email account and not the other 3 I use,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,APP_PROBLEM,False
+20,1763672,@AppleSupport Thank you!,REVIEW_MANUALLY,OTHER,APP_PROBLEM,False
+21,90292,"@AppleSupport @135589 While you are fixing OS X, could you also make ""Automatically adjust brightness"" checkbox ""off"" state work again?",SCREEN_DISPLAY,SETTINGS_FEATURE,SCREEN_DISPLAY,False
+22,1734468,@AppleSupport Once the phone updated it didn't even ask me to sign back into my Apple account therefore it never signed me back into iTunes.,APP_STORE_PURCHASE,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+23,541099,"@AppleSupport @245522 Disable notifications, app by app? What a joke. Unbelievable.",SETTINGS_FEATURE,SETTINGS_FEATURE,APP_PROBLEM,False
+24,399925,@AppleSupport I ask for the app not for the service is available or no,APP_PROBLEM,APP_STORE_PURCHASE,APP_PROBLEM,False
+25,1282419,@AppleSupport I downloaded a new iTunes and can't try it because they want me to enter a verification # texted to my phone. How about my email username?,APP_STORE_PURCHASE,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+26,211224,@AppleSupport Not in Low Power Mode. Restarted phone. Deleted apps. The only thing I haven't gone so far as to do is remove all traces of iCloud account,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+27,2502121,@AppleSupport I’ll notice not receiving any notifications or texts and realize that my phone is saying no service when I’m definitely in an area that normally has alot of service. Happens to my friends iPhone 7’s as well :/ and it will say no service TIL I turn on/off airplane mode.,SETTINGS_FEATURE,CONNECTIVITY,APP_PROBLEM,False
+28,2835849,@AppleSupport After reboot the spinning button is gone ⏸,HARDWARE_DEVICE,PERFORMANCE_STABILITY,HARDWARE_DEVICE,False
+29,703215,"@AppleSupport Yes I am. 
+This new update has completely ruined my phone. Constantly freezing. Battery life is worse. Like it's pathetic",BATTERY_POWER,IOS_UPDATE,BATTERY_POWER,False
+30,266502,"@AppleSupport I have. I can log into my other account, but my newest one.",ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+31,1676735,@AppleSupport Yes I have a subscription,APP_STORE_PURCHASE,APP_STORE_PURCHASE,APP_PROBLEM,False
+32,1677917,@AppleSupport Still involves me having to touch phone (not great when cooking/running) compared to phone just doing it. Why can’t autoplay  be an option?,SCREEN_DISPLAY,MUSIC_MEDIA,APP_PROBLEM,False
+33,1063859,@AppleSupport My daughters phone is disabled tried everything 🍎 store to far can I mail it in?,REVIEW_MANUALLY,HARDWARE_DEVICE,APP_PROBLEM,False
+34,1409700,"@AppleSupport básically one solution is to switch low power mode on or follow “tips”, on an iPhone 7, my phone is that old?",BATTERY_POWER,BATTERY_POWER,APP_PROBLEM,False
+35,661563,@AppleSupport You cannot close wifi from control center. What is the use of contorl word in control center???,SETTINGS_FEATURE,SETTINGS_FEATURE,SETTINGS_FEATURE,True
+36,1133207,@AppleSupport I did that and re enabled it. Still doesn't work. I have to manually refresh the app store for updates to even pop up. What gives?,APP_STORE_PURCHASE,APP_STORE_PURCHASE,APP_STORE_PURCHASE,True
+37,761945,"@AppleSupport ""If Bluetooth is turned off, you won’t be able to connect your iOS device to your Bluetooth accessories until:
+...
+It's 5 AM local time.""
+What? 😆",CONNECTIVITY,CONNECTIVITY,CONNECTIVITY,True
+38,2466776,@AppleSupport @705840 Mines is an iPhone 6+ and my battery life is terrible,BATTERY_POWER,BATTERY_POWER,BATTERY_POWER,True
+39,125796,@AppleSupport I seriously can’t get customer support without the serial number which is written in microscopic type which I can’t read and I can’t pull it up on a tv screen because I can’t past this screen. This can’t be the first time this has happened. Pls just tell me the secret. https://t.co/rL4TjCQRrq,SCREEN_DISPLAY,HARDWARE_DEVICE,SETTINGS_FEATURE,False
+40,486122,"@AppleSupport The error is for lack of iCloud storage. It asks me to upgrade my storage plan, but, like I said in my previous tweet, I have 45GB available at iCloud",ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+41,97009,@AppleSupport Im using 11.1.2 software my iphone states that is the latest update,IOS_UPDATE,IOS_UPDATE,IOS_UPDATE,True
+42,2728155,"@AppleSupport I have sent a DM, As I am still unable to access a device or PC. If I logged into my Apple ID account using my partners device, having backed his up, then erased &amp; restored the phone to his account, would the backup still be saved afterwards?",ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+43,1539924,@AppleSupport of agreement but I think it would be better to be able to configure that in settings,SETTINGS_FEATURE,SETTINGS_FEATURE,SETTINGS_FEATURE,True
+44,257739,@AppleSupport Yes I am @AppleSupport. Have been since Apple Music was a thing.,MUSIC_MEDIA,MUSIC_MEDIA,MUSIC_MEDIA,True
+45,2676082,"@AppleSupport My apple tv stopped locating wifi upon s/w update yesterday has been working fine for 3 years. My Apple ecosystem(ipad,mac,iphone)is broken.",HARDWARE_DEVICE,CONNECTIVITY,ACCOUNT_APPLE_ID,False
+46,673571,"@AppleSupport It just hangs anywhere, touch or home button will not respond for a while &amp; then everything will get closed &amp; I will be back @ home screen",SCREEN_DISPLAY,PERFORMANCE_STABILITY,APP_PROBLEM,False
+47,515892,"@AppleSupport the fixes I tried: force restart w home and lock button, reset all settings, freed up some storage.",HARDWARE_DEVICE,PERFORMANCE_STABILITY,HARDWARE_DEVICE,False
+48,394568,"@AppleSupport Oh, great. A full enumeration of everything that sucks about it. Pls: a simple switch to choose between old and new..or downgrade to IOS 10.",IOS_UPDATE,IOS_UPDATE,APP_PROBLEM,False
+49,1474121,@AppleSupport The biggest issue I am having at the moment is my phone freezing and being kicked out of apps. Specifically Snapchat at the moment,APP_PROBLEM,APP_PROBLEM,APP_PROBLEM,True
+50,1025630,"@AppleSupport Although My iphone 6s updated with 11.0.3,its getting hanged!! Screen not working! Only power button works! Reset then wrks! Plz help.",HARDWARE_DEVICE,PERFORMANCE_STABILITY,HARDWARE_DEVICE,False
+51,1332369,@AppleSupport It freezes out of the blue the apps are slow &amp; i constantly have to hard reset my phone.,APP_PROBLEM,PERFORMANCE_STABILITY,APP_PROBLEM,False
+52,243050,@AppleSupport I’ve tried that and I get this message. Looked into it and bc of iCloud music it won’t allow me to add my own music if I please https://t.co/j1xH3wrK6i,ACCOUNT_APPLE_ID,MUSIC_MEDIA,MUSIC_MEDIA,True
+53,2634932,@AppleSupport My clock &amp; date on lock screen keeps disappearing and I can’t view notifications when phone is locked/unlocked...I’ve gone to support pages and emailed tech support....nada...restarting phone helps temporarily and then back to nothing...,SETTINGS_FEATURE,SCREEN_DISPLAY,APP_PROBLEM,False
+54,1374141,@AppleSupport I ready double checked with my account holder about his information. Also tried hundreds times but it still doesn’t go through. If you can help me extending the reservation and hold the Nov3 launching date I can wait until you fix this problem. Thanks.,ACCOUNT_APPLE_ID,APP_STORE_PURCHASE,SETTINGS_FEATURE,False
+55,2726967,"@AppleSupport I can use it, but if the screen rotates or I press my home button during a call it then becomes disfuctional and I am unable to hangup or return back to the call screen.",SCREEN_DISPLAY,APP_PROBLEM,SCREEN_DISPLAY,False
+56,118034,@AppleSupport This is the screen it gets stuck on.  Never shuts down. Started with latest update. https://t.co/hwaVc0jPVL,SCREEN_DISPLAY,PERFORMANCE_STABILITY,SCREEN_DISPLAY,False
+57,566716,@AppleSupport I took low battery off and they still won’t download.,BATTERY_POWER,APP_STORE_PURCHASE,BATTERY_POWER,False
+58,637538,@AppleSupport Yes I can turn it on &amp; off from the control center only,SETTINGS_FEATURE,SETTINGS_FEATURE,SETTINGS_FEATURE,True
+59,946687,@AppleSupport @344486 Safari 11 and Safari on iOS 11 have this feature. Tap and hold on the Reader button to turn it on!,HARDWARE_DEVICE,SETTINGS_FEATURE,HARDWARE_DEVICE,False
+60,845817,"@AppleSupport Yes, the Bluetooth in my car has disconnected once but been ok otherwise (though I’ve not used it that much since problem started)....",CONNECTIVITY,CONNECTIVITY,CONNECTIVITY,True
+61,187941,@AppleSupport I’m trying to unlock it using the sleep/wake button,HARDWARE_DEVICE,HARDWARE_DEVICE,HARDWARE_DEVICE,True
+62,2485814,@AppleSupport 11.1.1. It only happens in the videos app.,APP_PROBLEM,APP_PROBLEM,APP_PROBLEM,True
+63,336598,"@AppleSupport I’ve tried a few tips, hopefully that improves my battery life - strange that I already had everything off until the update turned it on 🤔",BATTERY_POWER,BATTERY_POWER,BATTERY_POWER,True
+64,927628,@AppleSupport It did. I left my phone in the car and I went for run. I synced and stored music in the watch,MUSIC_MEDIA,MUSIC_MEDIA,MUSIC_MEDIA,True
+65,942241,@AppleSupport No. Forced restart didn’t work. Normal shutdown didn’t work.,PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,APP_PROBLEM,False
+66,2583169,"@AppleSupport I was downloading from a backup, then tried to delete them all and re-downloading them from the app-store, it was working but some apps didn’t appear on my iPhone, had to go back to the app-store to open them",APP_PROBLEM,APP_STORE_PURCHASE,APP_STORE_PURCHASE,True
+67,629741,@AppleSupport Hi I sent u a DM 2 and half hours ago and nothing.....,REVIEW_MANUALLY,OTHER,APP_PROBLEM,False
+68,307332,@AppleSupport How do we get the music controls lower? 😭,MUSIC_MEDIA,MUSIC_MEDIA,SETTINGS_FEATURE,False
+69,2587916,@AppleSupport @231157 I think I need some help with the battery https://t.co/PYywAbGkF2,BATTERY_POWER,BATTERY_POWER,BATTERY_POWER,True
+70,1429688,@AppleSupport Your last up date made my phone so slow now,PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,True
+71,1062179,@AppleSupport hi 11.03 it’s everything really it takes forever for my emails to load and is just really slow:(,PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,True
+72,396071,@AppleSupport iphone 7 plus,REVIEW_MANUALLY,OTHER,APP_PROBLEM,False
+73,2114800,"@AppleSupport Hey, I’m using IOS 11.1 , no I haven’t restarted the phone",IOS_UPDATE,OTHER,APP_PROBLEM,False
+74,2105990,"@AppleSupport Yes, all the apps are up to date",APP_PROBLEM,APP_PROBLEM,APP_PROBLEM,True
+75,1492339,@AppleSupport Yes. Everything works on my phone. But the only things that will currently play on my watch are iCloud Music Library or from watch storage.,MUSIC_MEDIA,MUSIC_MEDIA,MUSIC_MEDIA,True
+76,247612,@AppleSupport Yes. This didn’t start until after I did the most recent update. I have to restart my phone to get it charging properly.,PERFORMANCE_STABILITY,IOS_UPDATE,APP_PROBLEM,False
+77,889038,@AppleSupport Its responding really slow when I type,PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,True
+78,2436431,"@AppleSupport I can open App Store, when I click download it just cycles and doesn’t prompt Touch ID to download etc. It never starts downloading.",APP_PROBLEM,APP_STORE_PURCHASE,APP_STORE_PURCHASE,True
+79,797592,@AppleSupport Overnight I’m assuming. When I wake up that’s when I notice it.,REVIEW_MANUALLY,OTHER,APP_PROBLEM,False
+80,6658,"@AppleSupport The overall performance has been reduced, battery life as well, system constantly slowing down and the phone is heating up a lot. Any ideas?",BATTERY_POWER,PERFORMANCE_STABILITY,BATTERY_POWER,False
+81,842505,@AppleSupport using apps it’s slow to register what I’m doing and the touch screen doesn’t register where I am tapping on the screen or won’t skip song,SCREEN_DISPLAY,SCREEN_DISPLAY,SCREEN_DISPLAY,True
+82,2585577,@AppleSupport The final step to get out make update by #iTunes  to fix #OTA issues,APP_STORE_PURCHASE,IOS_UPDATE,IOS_UPDATE,True
+83,854536,"@AppleSupport got an iphone 5s, running ios11 but had the problem on ios10 too. the podcast app will rewind to a certain point everytime i press pause",APP_PROBLEM,APP_PROBLEM,APP_PROBLEM,True
+84,2371200,@AppleSupport @684201 I’ve completed the IOS11 update &amp; now it’s saying accept new iCloud terms &amp; conditions before using iCloud on my iPhone but then freezes when you try to accept?!??,IOS_UPDATE,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+85,2557349,@AppleSupport I couldnt call out at all last night started at 7pm. Was located outside In midtown NYC. Also The screen kept freezing and locked my phone for emergency calls only.,SCREEN_DISPLAY,CONNECTIVITY,APP_PROBLEM,False
+86,2561176,@AppleSupport @726922 It’s not the software. I just bought this phone brand new and I’m having the same exact problems. It’s on you guys for putting a shitty phone out that CONSTANTLY freezes. I can’t even unlock it without it freezing.,PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,APP_PROBLEM,False
+87,2573867,@AppleSupport I am noticing it since i have updated to ios 11.1.1,IOS_UPDATE,IOS_UPDATE,APP_PROBLEM,False
+88,2726853,"@AppleSupport Hi. I was using the Belkin QI charger, I bought it for the online Apple store at the same time as my iPhone 8 Plus. Apparently it’s a battery / temperature thing? Yet I can charge past 80% on the supplied in box iPhone charger fine all the way to 100%.",BATTERY_POWER,BATTERY_POWER,BATTERY_POWER,True
+89,1349515,"@AppleSupport Oh.. and the headset is not working either. If I listen to @115888 on it and want to paus the music, it starts Apple Music instead...",MUSIC_MEDIA,HARDWARE_DEVICE,MUSIC_MEDIA,False
+90,612853,@AppleSupport Apple Music lags a lot on my iPhone 7 running iOS 11.1.1. Already did a factory reset but the issue still persists. I have around 1600 songs in my playlist.,IOS_UPDATE,MUSIC_MEDIA,MUSIC_MEDIA,True
+91,874927,@AppleSupport The others work. Just unable to download or update apps at this stage. Time and day are correct.,APP_PROBLEM,APP_STORE_PURCHASE,APP_PROBLEM,False
+92,2729112,@AppleSupport I have some in playlist but the majority are not 😔,REVIEW_MANUALLY,MUSIC_MEDIA,MUSIC_MEDIA,True
+93,1012350,@AppleSupport @359544 But these are not enough steps. Why this feature is not implemented yet in world’s leading smartphones - https://t.co/xxLTCfiwMz,SETTINGS_FEATURE,SETTINGS_FEATURE,SETTINGS_FEATURE,True
+94,596844,@AppleSupport I can’t go into music through my settings. It freezes up and then closes my settings app,MUSIC_MEDIA,APP_PROBLEM,APP_PROBLEM,True
+95,2684331,@AppleSupport How do I️ remove my iCloud account? I’m kind of nervous to do that,SETTINGS_FEATURE,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+96,584662,"@AppleSupport I've tried force restart many times but it doesn't help. I managed to enter recovery mode, restore &amp; update to iOS 11.2, but the touch screen still doesn't work.... ☹️",IOS_UPDATE,SCREEN_DISPLAY,APP_PROBLEM,False
+97,1794167,@AppleSupport I preferred when that icon Disabled WiFi.  Not a fan of it staying on. I did that so it wouldn't connect to anything &amp; save battery. thx!,CONNECTIVITY,SETTINGS_FEATURE,CONNECTIVITY,False
+98,2230024,@AppleSupport This happens when Music is being played off the speakers or I’m on a phone call.. while volume is set above 70%.. please have a look at the link I shared to the forum thread.. my iPhone X isn’t the only one!,MUSIC_MEDIA,HARDWARE_DEVICE,HARDWARE_DEVICE,True
+99,2015342,"@AppleSupport Does this restore the iPad to its factory settings or when it works again, does it keep everything it had when it started???",SETTINGS_FEATURE,OTHER,APP_PROBLEM,False
+100,1360083,"@AppleSupport I have iOS 11 on my 6s and iOS on the 5s,this has been going on since i got my 6s 19 months ago. Is there a significant difference between the camera lenses?",IOS_UPDATE,HARDWARE_DEVICE,APP_PROBLEM,False
+101,301576,@AppleSupport It flickers to the magnified view then back to the lock screen without the clock and sometimes the home button becomes unresponsive.,HARDWARE_DEVICE,SCREEN_DISPLAY,SCREEN_DISPLAY,True
+102,1810114,@AppleSupport Thank you. Dming you now,REVIEW_MANUALLY,OTHER,APP_PROBLEM,False
+103,2837097,"@AppleSupport Thank you for your fast answer... I am has already reinstalled the iphone and restored  the saved old back up in icloud. if there is an error again, we will deal with it... the problem seems to be resolved. My model is: iPhone 6s Plus (MKU62CN/A) (A1687) iOS: 11.1.2 (15B202)",ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+104,2295371,"@AppleSupport Yes, I’m correctly signed in all my devices and Apple Music and iCloud music library are both enabled. I just found out my library syncs whenever I add a new song directly from either iPhone. Until then it does nothing",MUSIC_MEDIA,MUSIC_MEDIA,MUSIC_MEDIA,True
+105,506467,@AppleSupport we’re both using the same apple id. she doesn’t have an apple music so she’s just listening to a song she BOUGHT on itunes yesterday . i pay for individual apple music monthly . w,ACCOUNT_APPLE_ID,APP_STORE_PURCHASE,MUSIC_MEDIA,False
+106,2488684,@AppleSupport Ver 9.3.5. Started seemingly fairly recently. Not a heavy user of the messenger app.,APP_PROBLEM,APP_PROBLEM,APP_PROBLEM,True
+107,1587431,"@AppleSupport Obviously the question mark issue, constant freezing, not responding to touch sensitivity, cont’d",SCREEN_DISPLAY,PERFORMANCE_STABILITY,APP_PROBLEM,False
+108,400885,"@AppleSupport I want you guys from @115858 to relief and iOS 11 .0 .3 update. Because on my iPhone 6s Plus, I have to start charging very frequently.",BATTERY_POWER,IOS_UPDATE,BATTERY_POWER,False
+109,2573914,@AppleSupport This was helpful. Actually I had an application/browser which allowed me to access various websites and download videos. But I am not able to find that app now.,APP_PROBLEM,APP_STORE_PURCHASE,APP_STORE_PURCHASE,True
+110,2831757,"@AppleSupport When it’s dark it only works if I very carefully hold it in front of my face. If I’m lying on my side in bed, it doesnt ever work. It’s just a huge pain in the butt, and not remotely as easy as Touch ID. Not even close. I’m on 11.1.2.",SCREEN_DISPLAY,HARDWARE_DEVICE,APP_PROBLEM,False
+111,1220400,@AppleSupport I turned my phone on and off. I think just on twitter. It is like a weird jump delay. Autotyping other words and missing letters and freezing.,REVIEW_MANUALLY,APP_PROBLEM,APP_PROBLEM,True
+112,1633017,"@AppleSupport It’s my iphone 6 and I’ve not tried anything other than just restarting yet, I’ll update to IOS 11.1 now",PERFORMANCE_STABILITY,IOS_UPDATE,APP_PROBLEM,False
+113,986200,@AppleSupport Yes I was. Those settings are all set in a mode that should keep the watch power charged.,BATTERY_POWER,BATTERY_POWER,APP_STORE_PURCHASE,False
+114,1155524,"@AppleSupport Nope, not in low power mode",BATTERY_POWER,BATTERY_POWER,APP_PROBLEM,False
+115,2295844,@AppleSupport My phone keeps freezing and and shutting off! For no reason! I have updated the software and restarted numerous times. This happens multiple times a day!!,PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,APP_PROBLEM,False
+116,2291473,@AppleSupport I just don’t any sound for notifications,SETTINGS_FEATURE,SETTINGS_FEATURE,APP_PROBLEM,False
+117,1535740,"@AppleSupport Nope, no restrictions activated. Normal purchases in App Store work perfectly, but this In-App-Purchase won‘t work :(",APP_STORE_PURCHASE,APP_STORE_PURCHASE,APP_STORE_PURCHASE,True
+118,743456,"@AppleSupport Yes, 11.0.2 and MUSIC member :)",MUSIC_MEDIA,MUSIC_MEDIA,MUSIC_MEDIA,True
+119,810319,@AppleSupport How to create a new local folder? Not inside iCloud. Only in files,ACCOUNT_APPLE_ID,SETTINGS_FEATURE,ACCOUNT_APPLE_ID,False
+120,2780621,@AppleSupport Originally loaded onto the phone via iTunes on my MacBook. Running iOS 11.1.1,APP_STORE_PURCHASE,OTHER,APP_PROBLEM,False
+121,805629,@AppleSupport Charged all the way to 100% last night. Somehow already at 68%. No apps opened.,APP_PROBLEM,BATTERY_POWER,APP_STORE_PURCHASE,False
+122,1235658,@AppleSupport It started happening recently. And battery life has started recently too. I don’t have many apps. And I don’t have Bluetooth on either,CONNECTIVITY,BATTERY_POWER,BATTERY_POWER,True
+123,2913280,"@AppleSupport yes the upper portion of the display not responding, and I can't turn off the phone https://t.co/6WV9VNKwam",SCREEN_DISPLAY,SCREEN_DISPLAY,SETTINGS_FEATURE,False
+124,2594425,@AppleSupport It’s asking me to sign in to some random iTunes account...,APP_STORE_PURCHASE,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+125,958019,@AppleSupport It asks me to login in to my Apple ID and then nothing happens.,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,True
+126,2436024,"@AppleSupport Yes, on my IPhone. I️t tries to autocorrect in iMessage. It also appears on Facebook and Twitter.",REVIEW_MANUALLY,SETTINGS_FEATURE,SETTINGS_FEATURE,True
+127,712081,@AppleSupport 11.0.2. The picture takes fine and when I click the message button to share there is a delay of about 7 seconds,HARDWARE_DEVICE,PERFORMANCE_STABILITY,HARDWARE_DEVICE,False
+128,1706871,@AppleSupport My apps that require internet keep saying “cannot connect” or “error cannot refresh” even tho I have data or WiFi 😭,APP_PROBLEM,CONNECTIVITY,CONNECTIVITY,True
+129,225127,@AppleSupport That’s great. How come nothing downloads from the iTunes Store?,APP_STORE_PURCHASE,APP_STORE_PURCHASE,MUSIC_MEDIA,False
+130,2905809,@AppleSupport Works after restarting. Ideally I wouldn’t have to restart every time Safari/Preview/etc acted up… :-/,PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,APP_PROBLEM,False
+131,1181480,@AppleSupport The apps are significantly slowed down. Numerous issues sending pics  thru text. Freezes up in the middle of typing.,APP_PROBLEM,APP_PROBLEM,APP_PROBLEM,True
+132,282848,@AppleSupport Already did that! It just won’t work to configure one button. The others buttons work!,HARDWARE_DEVICE,HARDWARE_DEVICE,HARDWARE_DEVICE,True
+133,1152814,@AppleSupport I have an iPhone 6Plus and I have iOS 11.0.3. I am not aware of any changes other than me upgrading to the 11.0.3,IOS_UPDATE,IOS_UPDATE,APP_PROBLEM,False
+134,936786,@AppleSupport When listening to Podcasts I can’t control the volume via Apple Ear Buds. When I press the play button on the Ear Buds it switched to Music,MUSIC_MEDIA,HARDWARE_DEVICE,HARDWARE_DEVICE,True
+135,2869669,"@AppleSupport Yes, didn’t work on WiFi. Had to connect to iTunes on laptop, but it’s working now.",CONNECTIVITY,CONNECTIVITY,CONNECTIVITY,True
+136,1636149,"@AppleSupport Ok, i try in English. How can i deaktivate the thumbnail preview, which appears in the left corner, when i take a screenshot?",SETTINGS_FEATURE,SETTINGS_FEATURE,SETTINGS_FEATURE,True
+137,1213498,"@AppleSupport Pc, iOS 11.3. Unfortunately I am leaving work now and won’t be near the pc, but maybe you could investigate. New handset (7) setup normal...",REVIEW_MANUALLY,OTHER,APP_PROBLEM,False
+138,427392,"@AppleSupport Hi, it is happening with any app I use. And when I am switching between apps it will freeze in between panes for a few seconds",PERFORMANCE_STABILITY,PERFORMANCE_STABILITY,APP_PROBLEM,False
+139,366059,@AppleSupport It’s killing my batter after update pls fix apple team pls...,REVIEW_MANUALLY,BATTERY_POWER,APP_PROBLEM,False
+140,1301348,@AppleSupport Does not seem so to me. Please send me a link on how to connect.,CONNECTIVITY,CONNECTIVITY,SETTINGS_FEATURE,False
+141,2771802,@AppleSupport Purchased new cables from Apple,APP_STORE_PURCHASE,OTHER,APP_STORE_PURCHASE,False
+142,883598,"@AppleSupport The phone becomes really slow since the last update. The battery is weaker, the apps has a lot failure. And I never wanted to do the update",APP_PROBLEM,IOS_UPDATE,APP_PROBLEM,False
+143,92766,@AppleSupport Yes. It’s happening to other apps too like Apple Music. So not app specific but. iOS 11 😘,IOS_UPDATE,APP_PROBLEM,APP_PROBLEM,True
+144,1292104,"@AppleSupport After I launch app, this will show. 10-15 seconds and will kick me back to home. Also, I can’t open the music tab either from “settings” https://t.co/y8uoerJsrD",MUSIC_MEDIA,APP_PROBLEM,APP_PROBLEM,True
+145,1339687,@AppleSupport Both on iTunes on laptop and on my iPod through the app. Trying to download a pre-order.,APP_STORE_PURCHASE,APP_STORE_PURCHASE,MUSIC_MEDIA,False
+146,2128211,@AppleSupport It is usually happens everytime I open the App Store to update my apps,APP_STORE_PURCHASE,APP_STORE_PURCHASE,APP_PROBLEM,False
+147,1019328,@AppleSupport Huge problem with the volume I need to restart the phone a couple times or I need to press the volume down button to make the louder,HARDWARE_DEVICE,HARDWARE_DEVICE,HARDWARE_DEVICE,True
+148,110922,@AppleSupport It keeps freezing while I’m typing and my when I plug my charger in it charges but it goes on and off and I have to switch sides so that it doesn’t do that.,REVIEW_MANUALLY,HARDWARE_DEVICE,APP_PROBLEM,False
+149,1786858,@AppleSupport It’s gives me the response that the credit card is invalid even tho I know it’s valid and has been used before,APP_STORE_PURCHASE,APP_STORE_PURCHASE,APP_PROBLEM,False
+150,1633129,@AppleSupport It’s my MacBook. I’m even happing problems with the new iPhone update 😩,IOS_UPDATE,IOS_UPDATE,IOS_UPDATE,True
+151,774671,@AppleSupport I was not aware of the new iOS. I will install and get back to you.,IOS_UPDATE,CONNECTIVITY,IOS_UPDATE,False
+152,1748061,"@AppleSupport i tried updating but it keeps saying i’m not connected to the wifi when i am. i restarted my phone, it keeps saying it.",CONNECTIVITY,CONNECTIVITY,CONNECTIVITY,True
+153,855432,@AppleSupport Version 11.1 and it’s occurring through the headphones. I’ll check later if it’s through the built-in speaker as well and tweet yo,HARDWARE_DEVICE,HARDWARE_DEVICE,APP_PROBLEM,False
+154,1111377,"@AppleSupport iPhone 7+, the lock screen / notification screen goes blank sometimes and will stay until I restart. Only on iOS 11.",SETTINGS_FEATURE,SCREEN_DISPLAY,SCREEN_DISPLAY,True
+155,2901931,@AppleSupport Yesterday and yes. It has the latest update but no apple charger will work. Even the one that came with the phone,BATTERY_POWER,HARDWARE_DEVICE,IOS_UPDATE,False
+156,889053,"@AppleSupport .@AppleSupport Other people may be having same issue w/ their iPad Pro too!👍Anyway, I've already begun moving stuff (pics, vids, docs, etc.) from iCloud to hard drives on real computers. Safer. Quicker. More quickly accessed.My iPad Pro is soooo defective.😢 #Apple #AppleSupport",ACCOUNT_APPLE_ID,HARDWARE_DEVICE,ACCOUNT_APPLE_ID,False
+157,2477523,"@AppleSupport All my friends are sharing their profile, i cannot search for people, i cannot see people i have no “button” to share my profile.... when i search, everything but people come up? When i search for my friends the search comes up empty! there is something up with my account",HARDWARE_DEVICE,ACCOUNT_APPLE_ID,APP_PROBLEM,False
+158,359292,"@AppleSupport I have done so twice, you couldn’t help me.. when will you release the next update?!.. how can I revert back to “iOS 10”???",SETTINGS_FEATURE,IOS_UPDATE,APP_PROBLEM,False
+159,754162,"@AppleSupport Yeah I knew where it was moved to, it was just that the button was disabled. It works now so it must just be a big. Thanks.",HARDWARE_DEVICE,SETTINGS_FEATURE,SETTINGS_FEATURE,True
+160,2341829,"@AppleSupport My music app stopped working and I followed steps to make it work again, but I couldn't so the next step suggested I reset my phone. It was all working fine and then has just stayed on the white screen for more than 12 hours.
+
+I need my phone to be working, a family member is ill",REVIEW_MANUALLY,PERFORMANCE_STABILITY,APP_PROBLEM,False
+161,1063842,@AppleSupport I am connected to wifi and yes Apple Music is turned on! https://t.co/MbeRNomAkl,CONNECTIVITY,MUSIC_MEDIA,MUSIC_MEDIA,True
+162,817658,"@AppleSupport Yeah, was perfect on my home WiFi yesterday and this morning but won’t let me sign in to iCloud now I have signed out to see if that fixed",CONNECTIVITY,CONNECTIVITY,ACCOUNT_APPLE_ID,False
+163,716596,"@AppleSupport Music is awesome, indeed. I have an iPhone 6s and and iPad Air, both with the latest iOS 11.0.2. I hope you can help me.",MUSIC_MEDIA,MUSIC_MEDIA,APP_PROBLEM,False
+164,2271644,"@AppleSupport It says “no internet connection” there are also other faults and glitches with the phone, it freezes on apps , turns off randomly etc",CONNECTIVITY,PERFORMANCE_STABILITY,CONNECTIVITY,False
+165,2152070,@AppleSupport yes. currently experiencing total touch screen failure on iphone x despite many forced-resets.,REVIEW_MANUALLY,SCREEN_DISPLAY,SCREEN_DISPLAY,True
+166,1067821,"@AppleSupport yes it’s been restarted multiple times, i’ve also reset the network settings",CONNECTIVITY,CONNECTIVITY,CONNECTIVITY,True
+167,2352182,@AppleSupport Updated the software and the photos still don’t load without a WiFi connection https://t.co/rfmCVBWlxf,CONNECTIVITY,CONNECTIVITY,CONNECTIVITY,True
+168,518296,@AppleSupport Located in the Netherlands. Updates was done via iTunes...,APP_STORE_PURCHASE,OTHER,MUSIC_MEDIA,False
+169,1352256,@AppleSupport 6Splus 64gig ios11.03 apps take forever to load; battery sucked 2x as fast as as v.10 generally stuttering and slow responsiveness.,BATTERY_POWER,PERFORMANCE_STABILITY,BATTERY_POWER,False
+170,124406,@AppleSupport I've done this multiple times now and it still won't connect to the wifi,CONNECTIVITY,CONNECTIVITY,CONNECTIVITY,True
+171,2343662,@AppleSupport i just have to do a quick reset (volume button up/down and then off button) and then it comes back on as normal,HARDWARE_DEVICE,PERFORMANCE_STABILITY,HARDWARE_DEVICE,False
+172,1638797,@AppleSupport Thank you!,REVIEW_MANUALLY,OTHER,APP_PROBLEM,False
+173,2422518,"@AppleSupport Thanks, that worked. Oddly enough the purchase history button is now showing up in settings on my iPhone after logging into that site. 🤷🏻‍♂️",SETTINGS_FEATURE,ACCOUNT_APPLE_ID,HARDWARE_DEVICE,False
+174,754189,@AppleSupport Yes i can access everything just fine but i can’t update my apps.,APP_PROBLEM,APP_STORE_PURCHASE,APP_PROBLEM,False
+175,84176,"@AppleSupport Now updated let me use it for few days then will come back to you. 
+But how will you solve the issue of slow charging by using software update. 
+It was there from the time of iOS 10 to now 11.2",PERFORMANCE_STABILITY,BATTERY_POWER,IOS_UPDATE,False
+176,1293083,@AppleSupport Done! Thanks,REVIEW_MANUALLY,OTHER,APP_PROBLEM,False
+177,90612,@AppleSupport iOS 9.3.5 on iPod. Think laptop is the same but how do I check? iTunes is up-to-date.,IOS_UPDATE,IOS_UPDATE,SETTINGS_FEATURE,False
+178,804888,"@AppleSupport Ok, I’ll try that when I get home with my wifi. I’ll let you if anything happens. Thanks!",CONNECTIVITY,CONNECTIVITY,CONNECTIVITY,True
+179,2253422,"@AppleSupport I’ll respond and the blue bar will slowly move and stop. I turn off iMessage and nothing. I restart, reset network settings, nothing.",PERFORMANCE_STABILITY,APP_PROBLEM,SETTINGS_FEATURE,False
+180,387638,"@AppleSupport Thanks for reply. In 10, swiping up used to slide out notifications, revealing lock screen wallpaper. Not possible in 11.",SETTINGS_FEATURE,SETTINGS_FEATURE,APP_PROBLEM,False
+181,1395685,"@AppleSupport And a lot of other applications (snapchat, email...) are now really slow (only since iOS 11.0.3) :s",PERFORMANCE_STABILITY,IOS_UPDATE,PERFORMANCE_STABILITY,False
+182,292381,@AppleSupport That’s the music stored on my 🍎 watch . I am talking about 🎶 of my 📱 I can’t control.  There is no way to control it throughout Apple Watch,MUSIC_MEDIA,MUSIC_MEDIA,SETTINGS_FEATURE,False
+183,2031185,@AppleSupport The music app! I’ve even restarted my phone and it is still happening and I know other people are having this issue as well!,MUSIC_MEDIA,MUSIC_MEDIA,APP_PROBLEM,False
+184,1773222,@AppleSupport Screen typing on its own either a malfunction or i have ghost,SCREEN_DISPLAY,SCREEN_DISPLAY,SCREEN_DISPLAY,True
+185,2286248,@AppleSupport W10 updated and last iTunes update..,APP_STORE_PURCHASE,OTHER,IOS_UPDATE,False
+186,2944522,@AppleSupport iCloud and I backed my phone up before I reset it and I only reset it because my phone was moving very slow since the new update.,ACCOUNT_APPLE_ID,ACCOUNT_APPLE_ID,IOS_UPDATE,False
+187,931409,@AppleSupport My screen is popping out,SCREEN_DISPLAY,HARDWARE_DEVICE,SCREEN_DISPLAY,False
+188,1745540,@AppleSupport Phone rings and when I answer there is no audio.,REVIEW_MANUALLY,HARDWARE_DEVICE,APP_PROBLEM,False
+189,2585584,"@AppleSupport Thank you.
+Yes, it was connected to WiFi + plugged to the charger.",BATTERY_POWER,OTHER,CONNECTIVITY,False
+190,430155,@AppleSupport As soon as I updated my iPhone to the current IOS,REVIEW_MANUALLY,IOS_UPDATE,APP_PROBLEM,False
+191,2734141,"@AppleSupport My phone doesn’t show the music. It’s saying I need to log in to stuff what is irrelevant and its slow. It’s a iPhone 7, running on iOS 11",ACCOUNT_APPLE_ID,MUSIC_MEDIA,PERFORMANCE_STABILITY,False
+192,1470081,@AppleSupport iPhone SE. all of my music was missing after I️ updated to iOS 11.1,MUSIC_MEDIA,MUSIC_MEDIA,APP_PROBLEM,False
+193,2358652,"@AppleSupport Ah, sorry! I thought this was the German account. My calculator doesn’t work properly. I have to type really slow, otherwise wrong results are calculated. Will this be regarded with the next update?",IOS_UPDATE,APP_PROBLEM,IOS_UPDATE,False
+194,2364419,@AppleSupport The link you provided ultimately leads to the iTunes Connect site (which is not working)! Ugh.,APP_STORE_PURCHASE,APP_STORE_PURCHASE,MUSIC_MEDIA,False
+195,2518259,"@AppleSupport I am using an iPhone 6s, when I try to make a call it immediately hangs up without ringing.",REVIEW_MANUALLY,CONNECTIVITY,APP_PROBLEM,False
+196,1294334,"@AppleSupport The phone freezes all the time , the Spotify app music doesn’t show on the lock screen",MUSIC_MEDIA,APP_PROBLEM,APP_PROBLEM,True
